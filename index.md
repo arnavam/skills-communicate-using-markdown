@@ -6,3 +6,8 @@
 def new():
  print("Hello world!")
 ```
+
+- [x] added message to markdown file
+- [x] added image 
+- [x] added code snippet
+- [x] added task list
